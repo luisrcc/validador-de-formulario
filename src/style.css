@@ -1,1 +1,19 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.fab{
+    color: white;
+}
+.d-flex{
+    justify-content: flex-end;
+}
+label, input::placeholder{
+    font-size: 0.9em ;
+}
+.invalidValue{
+    
+    border: 1px solid #dac4c4;
+}
+.validvalue{
+    
+    border: 1px solid #2aa02f;
+}
+
